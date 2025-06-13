@@ -1,0 +1,4 @@
+frutas = ["cacau", "banana", "morango"]
+print (frutas[0])
+frutas.append("morango)
+print(frutas)
