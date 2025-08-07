@@ -13,9 +13,3 @@ pessoa["profissão"] = "Estudante"
 pessoa["idade"] = 18
 print("\nDicionário atualizado:")
 print(pessoa)
-
-
-    
-
-
-
