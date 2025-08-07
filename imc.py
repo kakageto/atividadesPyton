@@ -1,3 +1,5 @@
+import os
+os.system("cls || clear")
 def classificacao_imc(peso, altura):
     imc = peso / (altura ** 2)
     print(f"IMC calculado: {imc:.2f}")

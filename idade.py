@@ -1,3 +1,5 @@
+import os
+os.system("cls || clear")
 def maior_de_idade(idade):
     if idade >= 18:
         print("A pessoa é maior de idade.")

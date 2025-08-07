@@ -1,3 +1,5 @@
+import os
+os.system("cls || clear")
 pessoa = {
     "nome": "Karine",
     "idade": 17,

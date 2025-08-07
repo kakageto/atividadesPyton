@@ -1,3 +1,5 @@
+import os
+os.system("cls || clear")
 def tabuada(numero):
     print(f"Tabuada do {numero}:")
     for i in range(1, 11):
